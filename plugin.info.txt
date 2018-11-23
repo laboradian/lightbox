@@ -1,0 +1,7 @@
+base   lightbox
+author laboradian
+email  laboradian@gmail.com
+date   2018-11-23
+name   Lightbox
+desc   Enables to use lightbox
+url    https://laboradian.com/
