@@ -3,6 +3,13 @@ lightbox2 plugin
 
 Lightbox plugin for DokuWiki
 
+Installation
+--------------
+
+1. Upload this directory under the DokuWiki `lib/plugins/` directory.
+2. That's it!
+
+
 Documentation
 --------------
 
