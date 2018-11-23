@@ -1,4 +1,4 @@
-lightbox2 plugin
+lightbox plugin
 ==================
 
 Lightbox plugin for DokuWiki
